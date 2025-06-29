@@ -1,0 +1,17 @@
+body{
+    background-color: darkgrey;
+}
+h1{
+    color: blue;
+    font-family: fantasy;
+    background-color: aqua;
+    border-color: blue;
+}
+h3{
+    color: red;
+    font-family: cursive;
+}
+button{
+    border-color: chocolate;
+    background-color: chartreuse;
+}
